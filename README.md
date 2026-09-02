@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Aiman Estehad</h1>
+<h1 align="center">Mohammad Aiman Estehad</h1>
 <h3 align="center">**Undergraduate CSE Student at East Delta University**
 </h3>
 
