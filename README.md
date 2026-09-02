@@ -6,12 +6,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Hackathon+Participant;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="80%" alt="Animated Header"/>
+
 <p>
   <a href="https://github.com/aiman-mdim">
     <img src="https://komarev.com/ghpvc/?username=aiman-mdim&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
+
   <a href="https://github.com/aiman-mdim?tab=followers">
     <img src="https://img.shields.io/github/followers/aiman-mdim?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+
+  <a href="https://github.com/aiman-mdim?tab=repositories">
+    <img src="https://img.shields.io/github/stars/aiman-mdim?label=Stars&style=for-the-badge&color=6c63ff" alt="GitHub Stars"/>
+  </a>
+
+  <a href="https://github.com/aiman-mdim/aiman-mdim/commits/main">
+    <img src="https://img.shields.io/github/last-commit/aiman-mdim/aiman-mdim?label=Last%20Commit&style=for-the-badge&color=0e75b6" alt="Last Commit"/>
   </a>
 </p>
 
@@ -20,6 +33,12 @@
 ---
 
 ## 🧑‍💻 About Me
+
+<div align="center">
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+
+</div>
 
 ```text
 🎓 CSE Undergraduate @ East Delta University
@@ -37,7 +56,7 @@
 
 ### 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="mailto:aimanmohammad594@gmail.com">
 <img src="https://img.shields.io/badge/Email-aimanmohammad594%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -171,7 +190,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-mdim&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-mdim&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -182,7 +201,9 @@
 <div align="center">
 
 <a href="https://github.com/aiman-mdim/Furcare_testing">
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman-mdim&repo=Furcare_testing&theme=tokyonight&hide_border=true" alt="FurCare Project"/>
+
 </a>
 
 </div>
@@ -234,10 +255,46 @@ Building Intelligent Applications 🤖
 
 ---
 
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aiman-mdim/aiman-mdim/output/github-contribution-grid-snake.svg" width="90%" alt="Animated Contribution Snake"/>
+
+</div>
+
+---
+
+# 💻 Developer Mode
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=%3E+whoami;Mohammad+Aiman+Estehad;%3E+role;CSE+Undergraduate+%7C+Full-Stack+Developer;%3E+learning;AI+%2F+Machine+Learning;%3E+status;Building+%26+Learning+%F0%9F%9A%80" alt="Developer Terminal Animation"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Activity
+
+<div align="center">
+
+<img src="https://img.shields.io/github/commit-activity/y/aiman-mdim/aiman-mdim?style=for-the-badge&label=Yearly%20Commits" alt="Yearly Commits"/>
+
+<img src="https://img.shields.io/github/commit-activity/m/aiman-mdim/aiman-mdim?style=for-the-badge&label=Monthly%20Commits" alt="Monthly Commits"/>
+
+<img src="https://img.shields.io/github/issues/aiman-mdim/aiman-mdim?style=for-the-badge&label=Issues" alt="Issues"/>
+
+<img src="https://img.shields.io/github/forks/aiman-mdim/aiman-mdim?style=for-the-badge&label=Forks" alt="Forks"/>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💭 *"Code. Learn. Build. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c63ff&height=120&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c63ff&height=150&section=footer&animation=twinkling" width="100%" alt="Animated Footer"/>
 
 </div>
