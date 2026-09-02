@@ -223,31 +223,71 @@ Building Intelligent Applications 🤖
 
 ---
 
-# 🎯 Areas of Interest
+# 💎 My Developer Focus
 
 <div align="center">
 
-### 🧠 Core Computer Science
+<table>
+<tr>
+<td align="center">
 
-`DSA` • `OOP` • `Problem Solving` • `Algorithms`
+🧠  
+<b>THINK</b>
 
-⬇️
+<br>
 
-### 🌐 Building Software
+DSA<br>
+Algorithms<br>
+Mathematics
 
-`Full-Stack Development` • `APIs` • `Databases` • `System Design`
+</td>
 
-⬇️
+<td align="center">➜</td>
 
-### 🤖 Exploring Intelligence
+<td align="center">
 
-`Artificial Intelligence` → `Machine Learning` → `Deep Learning` → `NLP`
+💻  
+<b>BUILD</b>
 
-⬇️
+<br>
 
-### 🚀 Turning Ideas Into Projects
+Full-Stack<br>
+APIs<br>
+Databases
 
-`Hackathons` • `Experimentation` • `Open Source` • `Innovation`
+</td>
+
+<td align="center">➜</td>
+
+<td align="center">
+
+🤖  
+<b>EXPLORE</b>
+
+<br>
+
+AI<br>
+Machine Learning<br>
+NLP
+
+</td>
+
+<td align="center">➜</td>
+
+<td align="center">
+
+🚀  
+<b>CREATE</b>
+
+<br>
+
+Projects<br>
+Hackathons<br>
+Innovation
+
+</td>
+</tr>
+</table>
 
 </div>
 
