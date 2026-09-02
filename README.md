@@ -223,67 +223,65 @@ Building Intelligent Applications 🤖
 
 ---
 
-# 💎 My Developer Focus
+# 🎯 Areas of Interest
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="180">
 
-🧠  
-<b>THINK</b>
+### 🧠
+**Data Structures & Algorithms**
 
-<br>
-
-DSA<br>
-Algorithms<br>
-Mathematics
+Problem Solving • Competitive Programming
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="180">
 
-<td align="center">
+### 🌐
+**Full-Stack Development**
 
-💻  
-<b>BUILD</b>
-
-<br>
-
-Full-Stack<br>
-APIs<br>
-Databases
+React • Node.js • APIs • Databases
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="180">
 
-<td align="center">
+### 🤖
+**AI & Machine Learning**
 
-🤖  
-<b>EXPLORE</b>
+ML • Deep Learning • NLP
 
-<br>
+</td>
+</tr>
 
-AI<br>
-Machine Learning<br>
-NLP
+<tr>
+<td align="center" width="180">
+
+### 📐
+**Mathematics**
+
+Logic • Discrete Math • Problem Solving
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="180">
 
-<td align="center">
+### 🚀
+**Hackathons**
 
-🚀  
-<b>CREATE</b>
+Building • Experimenting • Innovation
 
-<br>
+</td>
 
-Projects<br>
-Hackathons<br>
-Innovation
+<td align="center" width="180">
+
+### 🗄️
+**Backend & Databases**
+
+APIs • MongoDB • MySQL • PostgreSQL
 
 </td>
 </tr>
