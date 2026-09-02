@@ -208,23 +208,6 @@
 
 </div>
 
-### 🐾 FurCare
-
-A full-stack pet ecosystem platform featuring:
-
-* 🐶 Pet Adoption
-* 👨‍⚕️ Veterinary Consultation
-* 📅 Appointment Booking
-* ✂️ Grooming Services
-* 🏠 Pet Boarding
-* 🛒 Pet Store
-* 📋 Digital Health Records
-* 🔎 Lost & Found
-* 💳 Payment Management
-
-**Stack:** React • TypeScript • Node.js • Express.js • MongoDB • Axios
-
----
 
 # 📚 Currently Learning
 
