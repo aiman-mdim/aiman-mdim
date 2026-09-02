@@ -1,30 +1,299 @@
-<h1 align="center">Mohammad Aiman Estehad</h1>
-<h3 align="center">Undergraduate CSE Student at East Delta University
-</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiman-mdim&label=Profile%20views&color=0e75b6&style=flat" alt="aiman-mdim" /> </p>
+# 👋 Hi, I'm Mohammad Aiman Estehad
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiman-mdim" alt="aiman-mdim" /></a> </p>
+### `CSE Undergraduate` • `Full-Stack Developer` • `AI/ML Learner`
 
-- 🌱 Learning AI/ML
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Hackathon+Participant;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 💬 Ask me about **DSA, Full stack Dev, Mathematics, Hackathon**
-
-- 📫 aimanmohammad594@gmail.com
-
-- ⚡ Fun fact "I am not pro"
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad aiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad aiman" height="30" width="40" /></a>
-<a href="[https://instagram.com/_aiman.md](https://www.linkedin.com/in/mohammad-aiman-68288a254/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aiman.md" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/aiman-mdim">
+    <img src="https://komarev.com/ghpvc/?username=aiman-mdim&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/aiman-mdim?tab=followers">
+    <img src="https://img.shields.io/github/followers/aiman-mdim?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aiman-mdim&show_icons=true&locale=en&layout=compact" alt="aiman-mdim" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aiman-mdim&show_icons=true&locale=en" alt="aiman-mdim" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-mdim&" alt="aiman-mdim" /></p>
+```text
+🎓 CSE Undergraduate @ East Delta University
+💻 Full-Stack Developer
+🤖 Currently learning AI / Machine Learning
+🧠 Interested in DSA, Mathematics & Problem Solving
+🚀 Hackathon Enthusiast
+🌱 Always learning, building and experimenting
+```
+
+* 🔭 Currently working on **Full-Stack Web Applications**
+* 🌱 Learning **Artificial Intelligence & Machine Learning**
+* 💬 Ask me about **DSA, Full-Stack Development, Mathematics & Hackathons**
+* ⚡ Fun fact: **I'm not a pro — I'm just getting better every day.**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="center">
+
+<a href="https://www.cprogramming.com/">
+<img src="https://skillicons.dev/icons?i=c" width="55" alt="C"/>
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+</a>
+
+<a href="https://www.javascript.com/">
+<img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" width="55" alt="TypeScript"/>
+</a>
+
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="55" alt="Express"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind"/>
+</a>
+
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="center">
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+</a>
+
+<a href="https://www.arduino.cc/">
+<img src="https://skillicons.dev/icons?i=arduino" width="55" alt="Arduino"/>
+</a>
+
+</p>
+
+### 🤖 AI / Data Science
+
+<p align="center">
+
+<a href="https://pytorch.org/">
+<img src="https://skillicons.dev/icons?i=pytorch" width="55" alt="PyTorch"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aiman-mdim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiman-mdim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-mdim&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiman-mdim&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+The activity graph service currently uses the Vercel deployment rather than the old Heroku endpoint.
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aiman-mdim/aiman-mdim/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🌎 3D Contribution Calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="95%" alt="3D Contribution Calendar"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aiman-mdim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aiman-mdim/Furcare_testing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman-mdim&repo=Furcare_testing&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🐾 FurCare
+
+A full-stack pet ecosystem platform featuring:
+
+* 🐶 Pet Adoption
+* 👨‍⚕️ Veterinary Consultation
+* 📅 Appointment Booking
+* ✂️ Grooming Services
+* 🏠 Pet Boarding
+* 🛒 Pet Store
+* 📋 Digital Health Records
+* 🔎 Lost & Found
+* 💳 Payment Management
+
+**Stack:** React • TypeScript • Node.js • Express.js • MongoDB • Axios
+
+---
+
+# 📚 Currently Learning
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Natural Language Processing
+        ↓
+Building Intelligent Applications 🤖
+```
+
+---
+
+# 💡 Areas of Interest
+
+| Area           | Focus                            |
+| -------------- | -------------------------------- |
+| 🧠 DSA         | Algorithms & Problem Solving     |
+| 🌐 Full-Stack  | React + Node.js + MongoDB        |
+| 🤖 AI/ML       | Machine Learning & Deep Learning |
+| 📐 Mathematics | Applied Mathematics              |
+| 🏆 Hackathons  | Building & Experimenting         |
+| 🗄️ Databases  | SQL & NoSQL                      |
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohammad-aiman-68288a254/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Aiman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aimanmohammad594@gmail.com">
+<img src="https://img.shields.io/badge/Email-aimanmohammad594%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_aiman.md/">
+<img src="https://img.shields.io/badge/Instagram-_%5Faiman.md-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aiman-mdim">
+<img src="https://img.shields.io/badge/GitHub-aiman--mdim-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c63ff&height=120&section=footer"/>
+
+</div>
