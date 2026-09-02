@@ -277,7 +277,11 @@ APIs • MongoDB • MySQL • PostgreSQL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aiman-mdim/aiman-mdim/output/github-contribution-grid-snake.svg" width="90%" alt="Animated Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/aiman-mdim/aiman-mdim/output/github-contribution-grid-snake.svg"
+  width="90%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
