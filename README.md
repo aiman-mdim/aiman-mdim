@@ -207,22 +207,6 @@
 </div>
 
 
-# 📚 Currently Learning
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Natural Language Processing
-        ↓
-Building Intelligent Applications 🤖
-```
-
----
-
 # 🎯 Areas of Interest
 
 <div align="center">
@@ -299,31 +283,6 @@ APIs • MongoDB • MySQL • PostgreSQL
 
 ---
 
-# 💻 Developer Mode
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=%3E+whoami;Mohammad+Aiman+Estehad;%3E+role;CSE+Undergraduate+%7C+Full-Stack+Developer;%3E+learning;AI+%2F+Machine+Learning;%3E+status;Building+%26+Learning+%F0%9F%9A%80" alt="Developer Terminal Animation"/>
-
-</div>
-
----
-
-# ⚡ GitHub Activity
-
-<div align="center">
-
-<img src="https://img.shields.io/github/commit-activity/y/aiman-mdim/aiman-mdim?style=for-the-badge&label=Yearly%20Commits" alt="Yearly Commits"/>
-
-<img src="https://img.shields.io/github/commit-activity/m/aiman-mdim/aiman-mdim?style=for-the-badge&label=Monthly%20Commits" alt="Monthly Commits"/>
-
-<img src="https://img.shields.io/github/issues/aiman-mdim/aiman-mdim?style=for-the-badge&label=Issues" alt="Issues"/>
-
-<img src="https://img.shields.io/github/forks/aiman-mdim/aiman-mdim?style=for-the-badge&label=Forks" alt="Forks"/>
-
-</div>
-
----
 
 <div align="center">
 
