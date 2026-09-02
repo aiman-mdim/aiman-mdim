@@ -223,18 +223,33 @@ Building Intelligent Applications 🤖
 
 ---
 
-# 💡 Areas of Interest
+# 🎯 Areas of Interest
 
-| Area           | Focus                            |
-| -------------- | -------------------------------- |
-| 🧠 DSA         | Algorithms & Problem Solving     |
-| 🌐 Full-Stack  | React + Node.js + MongoDB        |
-| 🤖 AI/ML       | Machine Learning & Deep Learning |
-| 📐 Mathematics | Applied Mathematics              |
-| 🏆 Hackathons  | Building & Experimenting         |
-| 🗄️ Databases  | SQL & NoSQL                      |
+<div align="center">
 
----
+### 🧠 Core Computer Science
+
+`DSA` • `OOP` • `Problem Solving` • `Algorithms`
+
+⬇️
+
+### 🌐 Building Software
+
+`Full-Stack Development` • `APIs` • `Databases` • `System Design`
+
+⬇️
+
+### 🤖 Exploring Intelligence
+
+`Artificial Intelligence` → `Machine Learning` → `Deep Learning` → `NLP`
+
+⬇️
+
+### 🚀 Turning Ideas Into Projects
+
+`Hackathons` • `Experimentation` • `Open Source` • `Innovation`
+
+</div>
 
 # 🐍 Contribution Activity
 
