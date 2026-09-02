@@ -35,6 +35,28 @@
 * 💬 Ask me about **DSA, Full-Stack Development, Mathematics & Hackathons**
 * ⚡ Fun fact: **I'm not a pro — I'm just getting better every day.**
 
+### 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:aimanmohammad594@gmail.com">
+<img src="https://img.shields.io/badge/Email-aimanmohammad594%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammad-aiman-68288a254/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Aiman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/_aiman.md/">
+<img src="https://img.shields.io/badge/Instagram-_%5Faiman.md-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://github.com/aiman-mdim">
+<img src="https://img.shields.io/badge/GitHub-aiman--mdim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
 ---
 
 # 🛠️ Tech Stack
@@ -145,65 +167,11 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aiman-mdim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiman-mdim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-mdim&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiman-mdim&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
-The activity graph service currently uses the Vercel deployment rather than the old Heroku endpoint.
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aiman-mdim/aiman-mdim/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🌎 3D Contribution Calendar
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="95%" alt="3D Contribution Calendar"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aiman-mdim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aiman-mdim&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -214,7 +182,7 @@ The activity graph service currently uses the Vercel deployment rather than the 
 <div align="center">
 
 <a href="https://github.com/aiman-mdim/Furcare_testing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman-mdim&repo=Furcare_testing&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiman-mdim&repo=Furcare_testing&theme=tokyonight&hide_border=true" alt="FurCare Project"/>
 </a>
 
 </div>
@@ -266,34 +234,10 @@ Building Intelligent Applications 🤖
 
 ---
 
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohammad-aiman-68288a254/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Aiman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aimanmohammad594@gmail.com">
-<img src="https://img.shields.io/badge/Email-aimanmohammad594%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_aiman.md/">
-<img src="https://img.shields.io/badge/Instagram-_%5Faiman.md-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aiman-mdim">
-<img src="https://img.shields.io/badge/GitHub-aiman--mdim-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 *"Code. Learn. Build. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c63ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6c63ff&height=120&section=footer" alt="Footer"/>
 
 </div>
