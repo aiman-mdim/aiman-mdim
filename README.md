@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammad Aiman Estehad
+# Mohammad Aiman Estehad
 
 ### `CSE Undergraduate` • `Full-Stack Developer` • `AI/ML Learner`
 
