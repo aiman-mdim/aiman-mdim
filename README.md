@@ -1,5 +1,5 @@
 <h1 align="center">Mohammad Aiman Estehad</h1>
-<h3 align="center">**Undergraduate CSE Student at East Delta University**
+<h3 align="center">Undergraduate CSE Student at East Delta University
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiman-mdim&label=Profile%20views&color=0e75b6&style=flat" alt="aiman-mdim" /> </p>
@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **DSA, Full stack Dev, Mathematics, Hackathon**
 
-- 📫 How to reach me **aimanmohammad594@gmail.com**
+- 📫 aimanmohammad594@gmail.com
 
-- ⚡ Fun fact **I am not pro**
+- ⚡ Fun fact "I am not pro"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
